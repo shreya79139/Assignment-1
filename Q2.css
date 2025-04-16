@@ -1,0 +1,33 @@
+table,tr,td{
+  border:1px solid black;
+  text-align: center;
+  margin:auto;
+ 
+ }
+ body{
+align-items: center;
+ }
+ 
+ p{
+  text-align: center;
+ }
+ 
+ h1{
+  text-align: center;
+ }
+
+ .blue{
+  color:blue
+ }
+ .orange{
+  color:orangered;
+ }
+ .purple{
+  color:blueviolet
+ }
+ .red{
+  color:brown;
+ }
+ .bold{
+  font-weight: bold;
+ }
